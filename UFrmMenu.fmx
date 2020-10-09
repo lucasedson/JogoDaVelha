@@ -1,0 +1,62 @@
+object frmMenu: TfrmMenu
+  Left = 0
+  Top = 0
+  Caption = 'Menu'
+  ClientHeight = 414
+  ClientWidth = 346
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 346.000000000000000000
+    Size.Height = 414.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Contents
+      Fill.Kind = Gradient
+      Fill.Gradient.Points = <
+        item
+          Color = xFFFADBDB
+          Offset = 0.000000000000000000
+        end
+        item
+          Color = claWhite
+          Offset = 1.000000000000000000
+        end>
+      Fill.Gradient.StartPosition.X = 0.500000000000000000
+      Fill.Gradient.StartPosition.Y = 1.000000000000000000
+      Fill.Gradient.StopPosition.X = 0.499999970197677600
+      Fill.Gradient.StopPosition.Y = 0.000000000000000000
+      Size.Width = 346.000000000000000000
+      Size.Height = 414.000000000000000000
+      Size.PlatformDefault = False
+      object SpeedButton1: TSpeedButton
+        Align = Center
+        StyledSettings = []
+        Size.Width = 346.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        Text = 'Jogar'
+        TextSettings.Font.Family = 'Segoe Print'
+        TextSettings.Font.Size = 18.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claCrimson
+        OnClick = SpeedButton1Click
+      end
+    end
+    object SpeedButton2: TSpeedButton
+      Align = Bottom
+      Position.Y = 352.000000000000000000
+      Size.Width = 346.000000000000000000
+      Size.Height = 62.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'AdShow'
+      OnClick = SpeedButton2Click
+    end
+  end
+end
