@@ -3,18 +3,18 @@
 	<Transactions>
     <Transaction>2020/10/08 12:41:50.000.341,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
     <Transaction>2020/10/08 12:41:58.000.192,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2020/10/08 12:44:16.000.661,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.h=C:\Projetos C\Jogo da Velha\UJogoDaVelha.h</Transaction>
-    <Transaction>2020/10/08 12:44:16.000.661,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.fmx=C:\Projetos C\Jogo da Velha\UJogoDaVelha.fmx</Transaction>
-    <Transaction>2020/10/08 12:44:16.000.661,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp=C:\Projetos C\Jogo da Velha\UJogoDaVelha.cpp</Transaction>
-    <Transaction>2020/10/08 12:44:29.000.693,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Projetos C\Jogo da Velha\PRJJogoDaVelha.h</Transaction>
-    <Transaction>2020/10/08 12:44:43.000.224,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Projetos C\Jogo da Velha\PROJJogoDaVelha.cbproj</Transaction>
-    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\UJogoDaVelha.h=C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.h</Transaction>
-    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\UJogoDaVelha.cpp=C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.cpp</Transaction>
-    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\UJogoDaVelha.fmx=C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.fmx</Transaction>
+    <Transaction>2020/10/08 12:44:16.000.661,C:\Projetos C\Jogo da Velha\UJogoDaVelha.cpp=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2020/10/08 12:44:16.000.661,C:\Projetos C\Jogo da Velha\UJogoDaVelha.fmx=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2020/10/08 12:44:16.000.661,C:\Projetos C\Jogo da Velha\UJogoDaVelha.h=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2020/10/08 12:44:29.000.693,C:\Projetos C\Jogo da Velha\PRJJogoDaVelha.h=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/10/08 12:44:43.000.224,C:\Projetos C\Jogo da Velha\PROJJogoDaVelha.cbproj=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.h=C:\Projetos C\Jogo da Velha\UJogoDaVelha.h</Transaction>
+    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.fmx=C:\Projetos C\Jogo da Velha\UJogoDaVelha.fmx</Transaction>
+    <Transaction>2020/10/08 12:45:04.000.271,C:\Projetos C\Jogo da Velha\FrmJogoDaVelha.cpp=C:\Projetos C\Jogo da Velha\UJogoDaVelha.cpp</Transaction>
     <Transaction>2020/10/09 12:57:49.000.390,=C:\Projetos C\Jogo da Velha\Unit1.cpp</Transaction>
-    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\Unit1.fmx=C:\Projetos C\Jogo da Velha\UFrmMenu.fmx</Transaction>
-    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\Unit1.h=C:\Projetos C\Jogo da Velha\UFrmMenu.h</Transaction>
-    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\Unit1.cpp=C:\Projetos C\Jogo da Velha\UFrmMenu.cpp</Transaction>
+    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\UFrmMenu.h=C:\Projetos C\Jogo da Velha\Unit1.h</Transaction>
+    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\UFrmMenu.fmx=C:\Projetos C\Jogo da Velha\Unit1.fmx</Transaction>
+    <Transaction>2020/10/09 13:06:15.000.113,C:\Projetos C\Jogo da Velha\UFrmMenu.cpp=C:\Projetos C\Jogo da Velha\Unit1.cpp</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="android-support-v4.dex.jar"/>

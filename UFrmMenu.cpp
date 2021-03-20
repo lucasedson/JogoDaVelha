@@ -21,6 +21,7 @@ __fastcall TfrmMenu::TfrmMenu(TComponent* Owner)
 void __fastcall TfrmMenu::SpeedButton1Click(TObject *Sender)
 {
 frmPrincipal->Show();
+//ok
 }
 //---------------------------------------------------------------------------
 void __fastcall TfrmMenu::FormCreate(TObject *Sender)
